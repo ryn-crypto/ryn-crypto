@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on PT Jaya Kreasi Indonesia
+- 🌱 I’m currently learning PHP, Javascript, Python
