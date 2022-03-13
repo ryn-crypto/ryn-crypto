@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on PT Jaya Kreasi Indonesia
-- 🌱 I’m currently learning PHP, Javascript, Python
+- 🌱 I’m currently learning PHP, Javascript, Python and dart
+- ⚡ I’m interest for badminton, watch movie, and cicling
