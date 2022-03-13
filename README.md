@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![logo](https://github.com/ryn-crypto/ryn-crypto/blob/master/banner.png) 
+
 - 🔭 I’m currently working on PT Jaya Kreasi Indonesia
 - 🌱 Now i'm learning PHP, Javascript, Python, dart and framework
 - ⚡ I’m interest for badminton, watch movie, and cicling
