@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 - 🌱 Now i'm learning PHP, Javascript, Python, dart and framework
 - ⚡ I’m interest for badminton, watch movie, and cicling
 
+
+<!-- membutuhkan teman untuk beajar coding -->
+
 my portfolio : https://ryn-crypto.github.io/
