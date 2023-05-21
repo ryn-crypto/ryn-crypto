@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ryn-crypto.visitor-badge)
+![](![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge))
 
 
 <br />
