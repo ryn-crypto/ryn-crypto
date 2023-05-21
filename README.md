@@ -39,35 +39,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-TypeScript   9 hrs 50 mins   ██████████████████▓░░░░░░   74.03 %
-JSON         1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-SCSS         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Bash         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
+🚧 **my todo list stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
+🏆  7,995 Points           
+🌸  Completed 3 tasks today           
 ✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&show_icons=true&theme=gotham" alt="ryn-crypto" />
 
 
 
