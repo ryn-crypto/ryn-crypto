@@ -12,8 +12,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ryn-crypto.visitor-badge)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ryn-crypto.visitor-badge&left_text=My%20Page%20Visitors)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
 
 
@@ -51,7 +49,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&show_icons=true&theme=gotham" alt="ryn-crypto" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&show_icons=true&theme=gotham" alt="ryn-crypto" />
 
 
 
