@@ -22,7 +22,7 @@ I'm [Riyan First Tiyanto](https://ryn-crypto.github.io/), a passionate self-taug
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="469" height="300" />
   
 - 💼 any freelance work? do reach, [email](mailto:riyandotianto2@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
