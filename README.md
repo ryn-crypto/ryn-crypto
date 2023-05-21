@@ -13,6 +13,7 @@
 </a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ryn-crypto.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ryn-crypto.visitor-badge&left_text=My%20Page%20Visitors)
 
 
 <br />
