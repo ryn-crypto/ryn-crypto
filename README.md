@@ -44,8 +44,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
-
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
 📈 my github stats
 
