@@ -46,6 +46,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- TODO-IST:END -->
 <br>
 <!--START_SECTION:waka-->
+
+```text
+YAML       20 mins         ████████████████████████░   95.59 %
+Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 📈 my github stats
