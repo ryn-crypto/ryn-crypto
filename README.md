@@ -45,6 +45,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
 <br>
+<br>
+📈 Developer Breakdown
+
 <!--START_SECTION:waka-->
 
 ```text
