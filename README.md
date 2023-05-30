@@ -39,10 +39,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 🚧 **my todo list stats:**
 <!-- TODO-IST:START -->
-🏆  7,995 Points           
-🌸  Completed 3 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 7 days
+🏆  1.200 Points           
+🌸  Completed 1 tasks today           
+✅  Completed 531 tasks so far           
+⏳  Longest streak is 14 days
 <!-- TODO-IST:END -->
 <br>
 <br>
