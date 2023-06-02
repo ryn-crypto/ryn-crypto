@@ -51,11 +51,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              6 hrs 4 mins    ███████████████████████░░   92.51 %
-JSON             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Blade Template   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-CSS              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP              5 hrs 24 mins   ██████████████████████▓░░   91.14 %
+JSON             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Blade Template   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+CSS              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
