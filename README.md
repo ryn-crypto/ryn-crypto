@@ -50,7 +50,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 PHP              6 hrs 4 mins    ███████████████████████░░   92.51 %
 JSON             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 Blade Template   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
