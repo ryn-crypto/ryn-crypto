@@ -51,9 +51,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 6 mins    ███████████████████▒░░░░░   77.70 %
-Blade Template   1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+PHP              2 hrs 49 mins   ████████████████░░░░░░░░░   63.67 %
+Blade Template   1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   36.26 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
