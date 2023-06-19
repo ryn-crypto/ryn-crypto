@@ -51,8 +51,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                6 mins          ██████████████████▓░░░░░░   75.03 %
-reStructuredText   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
