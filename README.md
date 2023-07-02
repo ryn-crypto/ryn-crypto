@@ -43,20 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 30 June 2023
-
-Total Time: 36 hrs 48 mins
-
-PHP                27 hrs 49 mins  >>>>>>>>>>>>>>>>>>>------   75.57 %
-HTML               4 hrs 7 mins    >>>----------------------   11.19 %
-Blade Template     3 hrs 51 mins   >>>----------------------   10.49 %
-JSON               20 mins         -------------------------   00.95 %
-YAML               20 mins         -------------------------   00.95 %
-JavaScript         5 mins          -------------------------   00.25 %
-CSS                5 mins          -------------------------   00.24 %
-SQL                3 mins          -------------------------   00.16 %
-reStructuredText   2 mins          -------------------------   00.10 %
-Markdown           1 min           -------------------------   00.05 %
+PHP              11 hrs 6 mins   ████████████████████▒░░░░   81.39 %
+Blade Template   2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+HTML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+SQL              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
