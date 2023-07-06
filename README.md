@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 13 mins   █████████████████▓░░░░░░░   71.13 %
-Blade Template   1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   27.82 %
-Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP              4 hrs 6 mins    ████████████████████▒░░░░   81.13 %
+Blade Template   53 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
