@@ -6,10 +6,10 @@
   <img align="left" alt="Ryan's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="Ryan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ryan | Twitter" width="22px" src="https://www.svgrepo.com/show/452123/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/riyan-first-tiyanto-aa5a4b168/">
-  <img align="left" alt="Riyan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Riyan's LinkedIN" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
