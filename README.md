@@ -3,7 +3,7 @@
   <img align="left" alt="riyan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/uZZszxb6">
-  <img align="left" alt="Ryan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Ryan's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg"/>
 </a>
 <a href="https://twitter.com/">
   <img align="left" alt="Ryan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
