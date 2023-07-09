@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="469" height="300" />
   
-- 💼 any freelance work? do reach, <img align="left" alt="riyan's Instagram" width="22px" src="https://www.svgrepo.com/show/484564/email-part-2.svg" /> [email](mailto:riyandotianto2@gmail.com) :)
+- 💼 any freelance work? do reach, <img align="right" alt="riyan's Email" width="22px" src="https://www.svgrepo.com/show/484564/email-part-2.svg" /> [email](mailto:riyandotianto2@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
