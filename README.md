@@ -43,8 +43,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 25 mins   ████████████████▒░░░░░░░░   65.33 %
-Blade Template   1 hr 17 mins    ████████▓░░░░░░░░░░░░░░░░   34.67 %
+PHP              1 hr 16 mins    ██████████████░░░░░░░░░░░   55.45 %
+TypeScript       19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+JSON             14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Blade Template   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+TSConfig         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
 ```
 
 <!--END_SECTION:waka-->
