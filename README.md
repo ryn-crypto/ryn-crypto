@@ -57,7 +57,7 @@ JSON             9 mins          ▒░░░░░░░░░░░░░░�
 <p> <img src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&show_icons=true&theme=gotham" alt="ryn-crypto" />
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ryn-crypto&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryn-crypto&theme=react&layout=compact" />
 </p>
 
 
