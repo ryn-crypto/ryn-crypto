@@ -43,9 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     3 hrs 50 mins   ███████████████████████░░   91.89 %
-XML        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Kotlin     3 hrs 17 mins   ███████████████████████░░   92.34 %
+XML        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
