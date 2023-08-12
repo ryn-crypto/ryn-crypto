@@ -43,8 +43,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   2 hrs 5 mins    ████████████████████████▒   97.55 %
-XML      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Kotlin   3 mins          ████████████████████████▓   98.82 %
+XML      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
