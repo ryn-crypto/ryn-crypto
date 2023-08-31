@@ -43,10 +43,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           10 hrs 56 mins  ███████████████████████░░   91.76 %
-XML              48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Properties       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Kotlin           9 hrs 27 mins   █████████████████████▒░░░   85.77 %
+XML              1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Properties       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
