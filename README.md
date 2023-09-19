@@ -43,11 +43,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           18 hrs 2 mins   ████████████████████▒░░░░   81.27 %
-XML              3 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-ActionScript     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+From: 24 May 2023 - To: 17 September 2023
+
+Total Time: 138 hrs 22 mins
+
+Kotlin             47 hrs 22 mins  >>>>>>>>>----------------   34.24 %
+PHP                44 hrs 25 mins  >>>>>>>>-----------------   32.11 %
+XML                15 hrs 41 mins  >>>----------------------   11.34 %
+Blade Template     12 hrs 16 mins  >>-----------------------   08.86 %
+Python             6 hrs 37 mins   >------------------------   04.79 %
+HTML               4 hrs 24 mins   >------------------------   03.19 %
+JavaScript         1 hr 59 mins    -------------------------   01.44 %
+ActionScript       1 hr 21 mins    -------------------------   00.98 %
+JSON               1 hr 6 mins     -------------------------   00.80 %
+GitIgnore file     33 mins         -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
