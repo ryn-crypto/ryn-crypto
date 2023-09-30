@@ -43,11 +43,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            24 hrs 15 mins  ███████████████████▓░░░░░   79.30 %
-XML               4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-GDScript3         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Java              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-ActionScript      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Kotlin            27 hrs 20 mins  ██████████████████▓░░░░░░   75.07 %
+XML               7 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+GDScript3         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Java              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
