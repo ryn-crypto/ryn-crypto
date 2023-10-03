@@ -17,7 +17,7 @@
 
 <br />
 
-I'm [Riyan First Tiyanto](https://ryn-crypto.github.io/), a passionate self-taught full-stack web developer from Tangerang, Indonesia. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+I'm [Riyan First Tiyanto](https://riyan.appssolution.biz.id/), a passionate self-taught full-stack web developer from Tangerang, Indonesia. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
