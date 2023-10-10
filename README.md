@@ -1,4 +1,3 @@
----
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
 
 # 💫 About Me:
@@ -35,10 +34,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ryn-crypto&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-
-// [![](https://visitcount.itsvg.in/api?id=ryn-crypto&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 
