@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
 
 <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="455" height="291" />
 
@@ -37,7 +37,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ryn-crypto&icon=5&color=0)](https://visitcount.itsvg.in)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
 
 ## 💰 You can help me by Donating
 
