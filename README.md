@@ -1,6 +1,7 @@
-# 💫 About Me:
-
+---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
+
+# 💫 About Me:
 <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="455" height="291" />
 
 I'm [Riyan First Tiyanto](https://riyan.appssolution.biz.id/), a passionate self-taught back-end and mobile developer from Tangerang, Indonesia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
@@ -37,7 +38,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ryn-crypto&icon=5&color=0)](https://visitcount.itsvg.in)
+// [![](https://visitcount.itsvg.in/api?id=ryn-crypto&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 
