@@ -1,4 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ryn-crypto.visitor-badge)
+![codewars](https://www.codewars.com/users/ryn-crypto/badges/large)
 
 # 💫 About Me:
 <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="455" height="291" />
