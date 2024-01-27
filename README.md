@@ -4,7 +4,7 @@
 # 💫 About Me:
 <img align="right" alt="GIF" src="https://github.com/ryn-crypto/ryn-crypto/blob/master/code.gif?raw=true" width="455" height="291" />
 
-I'm [Riyan First Tiyanto](https://riyan.appssolution.biz.id/), a passionate self-taught back-end and mobile developer from Tangerang, Indonesia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+I'm [Riyan First Tiyanto](https://ryn-crypto.github.io/), a passionate self-taught back-end and mobile developer from Tangerang, Indonesia. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
 - 💼 any freelance work? do reach, [ <img alt="riyan's Email" width="22px" src="https://www.svgrepo.com/show/484564/email-part-2.svg" /> email](mailto:riyandotianto2@gmail.com) :)
